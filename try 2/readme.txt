@@ -1,0 +1,1 @@
+The main reference material I used for this project was stackoverflow.com. I also used https://pandas.pydata.org/ for help with getting pandas to work properly since this was the first time I was using pandas. I also got a lot of peer help from the Udacity Data Analytics Stack group where some members helped me understand what was being asked for in some of the functions.
